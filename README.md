@@ -1,3 +1,5 @@
+https://nishad-amit.github.io/Online-Video-Thumbnail-Generator/
+
 # Online video thumbnail Generator
 
 Simple Online video thumbnail generator using HTML and Javascript.
